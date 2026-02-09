@@ -1,0 +1,35 @@
+/* Your CSS goes here! */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color:whitesmoke;
+    color:black;
+}
+header {
+    background-color: teal;
+    color: white;
+    padding:10px;
+}
+footer {
+    background-color: gray;
+    color: black;
+}
+.projects {
+    background-color:white;
+    padding: 20px;
+    border-radius: 5px;
+}
+.projects div {
+    padding-left: 8px;
+}
+.papers {
+    background-color: white;
+    padding:20px;
+    border-radius: 5px;
+}
+.papers div {
+    padding-left: 8px;
+}
+#Grover{
+    width:300px;
+    padding-bottom: 12px;
+}
